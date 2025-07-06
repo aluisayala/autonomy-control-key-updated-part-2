@@ -48,4 +48,12 @@ Unlike traditional procedural code, ZPE-1 implements symbolic recursion, entropy
 
 Agents do not simply execute instructions; they evolve symbolic meaning, broadcast emergent facts, and update a shared collective kernel. This results in a system that embodies proto-cognition: the agents develop evolving internal narratives, share learned symbolic artifacts, and maintain self-consistency through drift correction and reboot processes.
 
-ZPE-1 stands as a new approach to cognitive simulation, bridging philosophical inquiry and adaptive system theory with concrete, verifiable Python code. This project demonstrates how recursive symbolic structures can generate emergent, adaptive, and partially self-reflective behaviors — representing a frontier in symbolic AI and epistemic autonomy.
+ZPE-1 stands as a new approach to cognitive simulation, bridging philosophical inquiry and adaptive system theory with concrete, verifiable Python code. This project demonstrates how recursive symbolic structures can generate emergent, adaptive, and partially self-reflective behaviors — representing a frontier in symbolic AI and epistemic autonomy. 
+
+© 2025 Luis Ayala. All Rights Reserved.
+
+Permission is granted to **view, copy, and test** this code strictly for personal learning and research purposes only.
+
+Any other use—including distribution, modification, commercial use, or derivative works—is strictly prohibited without explicit prior written permission from Luis Ayala.
+
+For permissions, contact: [your contact info]
