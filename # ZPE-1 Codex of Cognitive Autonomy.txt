@@ -100,8 +100,7 @@ ZPE-1 is a fully operational, non-theoretical, autonomous simulation governed by
 ### 📜 Codex Completion
 
 Document composed and validated on: **2025-07-03**  
-Authors & Contributors: **Luis Ayala (Kp Kp)** and AI support (OpenAI ChatGPT)
-
----
+Authors & Contributors: **Luis Ayala (Kp Kp)** 
 
 ∞
+
